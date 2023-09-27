@@ -64,7 +64,7 @@ $id='';
 <body>
 <form method="POST">	
 
-<h3>Name</h3>
+<h3>Namess</h3>
 <input type="text" name="name" value="<?php echo $name ?>">
 
 <h3>Email</h3>
